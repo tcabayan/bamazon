@@ -40,7 +40,7 @@ My role in this project has been developing the code that brings this idea to li
 
     The terminal will look a little something like this when the order is not successful:
 
-    ![Failure terminal screenshot](/Images/Node_Startup.png)
+    ![Failure terminal screenshot](/Images/Node_Insufficient.png)
 
 
 
